@@ -1,8 +1,11 @@
 # euroPT
 
-euroPT: small python kivy app European/Swiss stationboards query from http://transport.opendata.ch to find next 
+Small python kivy app (written in very short time) targeting mainly Android. 
+Query European/Swiss stationboards from http://transport.opendata.ch to find next 
 available public transport connections. Moved here from kivyTNW repo. 
-Find successful compiled *.apk. Only latest buildozer *.scep included.
+* Successfully compiled *.apk included. 
+* For information on apk build see included buildozer *.spec.
 
 ____todo:
--check internet connectivity before request
+* check internet connectivity before request
+* support more complex station names
